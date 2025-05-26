@@ -1,1 +1,1 @@
-FROM hello-world:latest
+FROM ubuntu:24.04
